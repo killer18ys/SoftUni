@@ -1,0 +1,5 @@
+c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P08-SquareRoot\bin\Debug\P08-SquareRoot.exe.config
+c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P08-SquareRoot\bin\Debug\P08-SquareRoot.exe
+c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P08-SquareRoot\bin\Debug\P08-SquareRoot.pdb
+c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P08-SquareRoot\obj\Debug\P08-SquareRoot.exe
+c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P08-SquareRoot\obj\Debug\P08-SquareRoot.pdb

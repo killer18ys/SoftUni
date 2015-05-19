@@ -1,0 +1,5 @@
+c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P09-PrintSequence\bin\Debug\P09-PrintSequence.exe.config
+c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P09-PrintSequence\bin\Debug\P09-PrintSequence.exe
+c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P09-PrintSequence\bin\Debug\P09-PrintSequence.pdb
+c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P09-PrintSequence\obj\Debug\P09-PrintSequence.exe
+c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P09-PrintSequence\obj\Debug\P09-PrintSequence.pdb
