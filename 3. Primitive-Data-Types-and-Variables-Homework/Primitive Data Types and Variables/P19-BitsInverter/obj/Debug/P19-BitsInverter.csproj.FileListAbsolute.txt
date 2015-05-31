@@ -1,0 +1,6 @@
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P19-BitsInverter\bin\Debug\P19-BitsInverter.exe.config
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P19-BitsInverter\bin\Debug\P19-BitsInverter.exe
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P19-BitsInverter\bin\Debug\P19-BitsInverter.pdb
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P19-BitsInverter\obj\Debug\P19-BitsInverter.csprojResolveAssemblyReference.cache
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P19-BitsInverter\obj\Debug\P19-BitsInverter.exe
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P19-BitsInverter\obj\Debug\P19-BitsInverter.pdb

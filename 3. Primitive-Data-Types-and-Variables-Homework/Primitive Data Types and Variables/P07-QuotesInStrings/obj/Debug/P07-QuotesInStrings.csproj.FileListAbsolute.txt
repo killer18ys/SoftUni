@@ -1,0 +1,8 @@
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P07-QuotesInStrings\bin\Debug\P07-QuotesInStrings.exe.config
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P07-QuotesInStrings\bin\Debug\P07-QuotesInStrings.exe
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P07-QuotesInStrings\bin\Debug\P07-QuotesInStrings.pdb
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P07-QuotesInStrings\obj\Debug\P07-QuotesInStrings.exe
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P07-QuotesInStrings\obj\Debug\P07-QuotesInStrings.pdb
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P07-QuotesInStrings\bin\Debug\P07-QuotesInStrings.exe.CodeAnalysisLog.xml
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P07-QuotesInStrings\bin\Debug\P07-QuotesInStrings.exe.lastcodeanalysissucceeded
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P07-QuotesInStrings\obj\Debug\P07-QuotesInStrings.csprojResolveAssemblyReference.cache

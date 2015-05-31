@@ -3,3 +3,6 @@ c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework
 c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P09-PrintSequence\bin\Debug\P09-PrintSequence.pdb
 c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P09-PrintSequence\obj\Debug\P09-PrintSequence.exe
 c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P09-PrintSequence\obj\Debug\P09-PrintSequence.pdb
+C:\Users\Hacker\Desktop\SoftUni\2. Introduction-to-Programming-Homework\Intro-Programming-Homework\P09-PrintSequence\bin\Debug\P09-PrintSequence.exe.config
+C:\Users\Hacker\Desktop\SoftUni\2. Introduction-to-Programming-Homework\Intro-Programming-Homework\P09-PrintSequence\obj\Debug\P09-PrintSequence.exe
+C:\Users\Hacker\Desktop\SoftUni\2. Introduction-to-Programming-Homework\Intro-Programming-Homework\P09-PrintSequence\obj\Debug\P09-PrintSequence.pdb

@@ -1,0 +1,8 @@
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P04-UnicodeCharacter\bin\Debug\P04-UnicodeCharacter.exe.config
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P04-UnicodeCharacter\bin\Debug\P04-UnicodeCharacter.exe
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P04-UnicodeCharacter\bin\Debug\P04-UnicodeCharacter.pdb
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P04-UnicodeCharacter\obj\Debug\P04-UnicodeCharacter.exe
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P04-UnicodeCharacter\obj\Debug\P04-UnicodeCharacter.pdb
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P04-UnicodeCharacter\bin\Debug\P04-UnicodeCharacter.exe.CodeAnalysisLog.xml
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P04-UnicodeCharacter\bin\Debug\P04-UnicodeCharacter.exe.lastcodeanalysissucceeded
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P04-UnicodeCharacter\obj\Debug\P04-UnicodeCharacter.csprojResolveAssemblyReference.cache

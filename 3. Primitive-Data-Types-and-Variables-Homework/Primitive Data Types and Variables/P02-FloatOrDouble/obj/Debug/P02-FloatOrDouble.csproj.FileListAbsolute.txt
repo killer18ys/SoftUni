@@ -1,0 +1,8 @@
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P02-FloatOrDouble\bin\Debug\P02-FloatOrDouble.exe.config
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P02-FloatOrDouble\bin\Debug\P02-FloatOrDouble.exe
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P02-FloatOrDouble\bin\Debug\P02-FloatOrDouble.pdb
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P02-FloatOrDouble\obj\Debug\P02-FloatOrDouble.exe
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P02-FloatOrDouble\obj\Debug\P02-FloatOrDouble.pdb
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P02-FloatOrDouble\bin\Debug\P02-FloatOrDouble.exe.CodeAnalysisLog.xml
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P02-FloatOrDouble\bin\Debug\P02-FloatOrDouble.exe.lastcodeanalysissucceeded
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P02-FloatOrDouble\obj\Debug\P02-FloatOrDouble.csprojResolveAssemblyReference.cache

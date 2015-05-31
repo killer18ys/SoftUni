@@ -1,0 +1,8 @@
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P08-IsoscelesTriangle\bin\Debug\P08-IsoscelesTriangle.exe.config
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P08-IsoscelesTriangle\bin\Debug\P08-IsoscelesTriangle.exe
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P08-IsoscelesTriangle\bin\Debug\P08-IsoscelesTriangle.pdb
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P08-IsoscelesTriangle\obj\Debug\P08-IsoscelesTriangle.exe
+c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P08-IsoscelesTriangle\obj\Debug\P08-IsoscelesTriangle.pdb
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P08-IsoscelesTriangle\bin\Debug\P08-IsoscelesTriangle.exe.CodeAnalysisLog.xml
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P08-IsoscelesTriangle\bin\Debug\P08-IsoscelesTriangle.exe.lastcodeanalysissucceeded
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P08-IsoscelesTriangle\obj\Debug\P08-IsoscelesTriangle.csprojResolveAssemblyReference.cache

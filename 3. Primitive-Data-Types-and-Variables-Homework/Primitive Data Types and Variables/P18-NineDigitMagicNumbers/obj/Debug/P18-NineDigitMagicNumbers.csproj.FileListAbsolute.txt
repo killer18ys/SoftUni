@@ -1,0 +1,6 @@
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P18-NineDigitMagicNumbers\bin\Debug\P18-NineDigitMagicNumbers.exe.config
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P18-NineDigitMagicNumbers\bin\Debug\P18-NineDigitMagicNumbers.exe
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P18-NineDigitMagicNumbers\bin\Debug\P18-NineDigitMagicNumbers.pdb
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P18-NineDigitMagicNumbers\obj\Debug\P18-NineDigitMagicNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P18-NineDigitMagicNumbers\obj\Debug\P18-NineDigitMagicNumbers.exe
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P18-NineDigitMagicNumbers\obj\Debug\P18-NineDigitMagicNumbers.pdb

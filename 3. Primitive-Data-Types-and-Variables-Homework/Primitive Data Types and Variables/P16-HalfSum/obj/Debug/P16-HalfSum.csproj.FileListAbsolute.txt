@@ -1,0 +1,5 @@
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P16-HalfSum\bin\Debug\P16-HalfSum.exe.config
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P16-HalfSum\bin\Debug\P16-HalfSum.exe
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P16-HalfSum\bin\Debug\P16-HalfSum.pdb
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P16-HalfSum\obj\Debug\P16-HalfSum.exe
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P16-HalfSum\obj\Debug\P16-HalfSum.pdb

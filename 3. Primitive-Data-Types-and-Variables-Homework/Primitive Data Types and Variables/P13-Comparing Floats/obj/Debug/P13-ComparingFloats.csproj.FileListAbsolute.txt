@@ -1,0 +1,7 @@
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P13-Comparing Floats\bin\Debug\P13-Comparing Floats.exe.config
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P13-Comparing Floats\bin\Debug\P13-Comparing Floats.exe
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P13-Comparing Floats\bin\Debug\P13-Comparing Floats.pdb
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P13-Comparing Floats\obj\Debug\P13-Comparing Floats.exe
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P13-Comparing Floats\obj\Debug\P13-Comparing Floats.pdb
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P13-Comparing Floats\bin\Debug\P13-Comparing Floats.exe.CodeAnalysisLog.xml
+C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P13-Comparing Floats\bin\Debug\P13-Comparing Floats.exe.lastcodeanalysissucceeded
