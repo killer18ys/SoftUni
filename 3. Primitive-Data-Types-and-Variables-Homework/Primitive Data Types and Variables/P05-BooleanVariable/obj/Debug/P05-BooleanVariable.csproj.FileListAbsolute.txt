@@ -1,8 +1,0 @@
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P05-BooleanVariable\bin\Debug\P05-BooleanVariable.exe.config
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P05-BooleanVariable\bin\Debug\P05-BooleanVariable.exe
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P05-BooleanVariable\bin\Debug\P05-BooleanVariable.pdb
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P05-BooleanVariable\bin\Debug\P05-BooleanVariable.exe.CodeAnalysisLog.xml
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P05-BooleanVariable\bin\Debug\P05-BooleanVariable.exe.lastcodeanalysissucceeded
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P05-BooleanVariable\obj\Debug\P05-BooleanVariable.csprojResolveAssemblyReference.cache
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P05-BooleanVariable\obj\Debug\P05-BooleanVariable.exe
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P05-BooleanVariable\obj\Debug\P05-BooleanVariable.pdb

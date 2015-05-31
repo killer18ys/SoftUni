@@ -1,7 +1,0 @@
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P15-JoroTheFootballPlayer\bin\Debug\P15-JoroTheFootballPlayer.exe.config
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P15-JoroTheFootballPlayer\bin\Debug\P15-JoroTheFootballPlayer.exe
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P15-JoroTheFootballPlayer\bin\Debug\P15-JoroTheFootballPlayer.pdb
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P15-JoroTheFootballPlayer\obj\Debug\P15-JoroTheFootballPlayer.exe
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P15-JoroTheFootballPlayer\obj\Debug\P15-JoroTheFootballPlayer.pdb
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P15-JoroTheFootballPlayer\bin\Debug\P15-JoroTheFootballPlayer.exe.CodeAnalysisLog.xml
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P15-JoroTheFootballPlayer\bin\Debug\P15-JoroTheFootballPlayer.exe.lastcodeanalysissucceeded

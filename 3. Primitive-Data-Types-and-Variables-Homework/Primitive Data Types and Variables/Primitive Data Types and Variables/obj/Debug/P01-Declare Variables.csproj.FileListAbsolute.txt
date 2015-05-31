@@ -1,7 +1,0 @@
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\Primitive Data Types and Variables\bin\Debug\Primitive Data Types and Variables.exe.config
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\Primitive Data Types and Variables\bin\Debug\Primitive Data Types and Variables.exe
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\Primitive Data Types and Variables\bin\Debug\Primitive Data Types and Variables.pdb
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\Primitive Data Types and Variables\obj\Debug\Primitive Data Types and Variables.exe
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\Primitive Data Types and Variables\obj\Debug\Primitive Data Types and Variables.pdb
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\Primitive Data Types and Variables\bin\Debug\Primitive Data Types and Variables.exe.CodeAnalysisLog.xml
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\Primitive Data Types and Variables\bin\Debug\Primitive Data Types and Variables.exe.lastcodeanalysissucceeded

@@ -1,7 +1,0 @@
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P10-Employee Data\bin\Debug\P10-Employee Data.exe.config
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P10-Employee Data\bin\Debug\P10-Employee Data.exe
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P10-Employee Data\bin\Debug\P10-Employee Data.pdb
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P10-Employee Data\obj\Debug\P10-Employee Data.exe
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P10-Employee Data\obj\Debug\P10-Employee Data.pdb
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P10-Employee Data\bin\Debug\P10-Employee Data.exe.CodeAnalysisLog.xml
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P10-Employee Data\bin\Debug\P10-Employee Data.exe.lastcodeanalysissucceeded

@@ -1,8 +1,0 @@
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P06-StringsAndObjects\bin\Debug\P06-StringsAndObjects.exe.config
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P06-StringsAndObjects\bin\Debug\P06-StringsAndObjects.exe
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P06-StringsAndObjects\bin\Debug\P06-StringsAndObjects.pdb
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P06-StringsAndObjects\obj\Debug\P06-StringsAndObjects.exe
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P06-StringsAndObjects\obj\Debug\P06-StringsAndObjects.pdb
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P06-StringsAndObjects\bin\Debug\P06-StringsAndObjects.exe.CodeAnalysisLog.xml
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P06-StringsAndObjects\bin\Debug\P06-StringsAndObjects.exe.lastcodeanalysissucceeded
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P06-StringsAndObjects\obj\Debug\P06-StringsAndObjects.csprojResolveAssemblyReference.cache

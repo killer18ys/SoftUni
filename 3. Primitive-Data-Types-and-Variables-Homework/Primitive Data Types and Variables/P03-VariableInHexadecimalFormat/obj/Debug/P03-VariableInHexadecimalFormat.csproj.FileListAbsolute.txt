@@ -1,8 +1,0 @@
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P03-VariableInHexadecimalFormat\bin\Debug\P03-VariableInHexadecimalFormat.exe.config
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P03-VariableInHexadecimalFormat\bin\Debug\P03-VariableInHexadecimalFormat.exe
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P03-VariableInHexadecimalFormat\bin\Debug\P03-VariableInHexadecimalFormat.pdb
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P03-VariableInHexadecimalFormat\obj\Debug\P03-VariableInHexadecimalFormat.exe
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P03-VariableInHexadecimalFormat\obj\Debug\P03-VariableInHexadecimalFormat.pdb
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P03-VariableInHexadecimalFormat\bin\Debug\P03-VariableInHexadecimalFormat.exe.CodeAnalysisLog.xml
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P03-VariableInHexadecimalFormat\bin\Debug\P03-VariableInHexadecimalFormat.exe.lastcodeanalysissucceeded
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P03-VariableInHexadecimalFormat\obj\Debug\P03-VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache

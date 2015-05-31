@@ -1,5 +1,0 @@
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P17-Sunglasses\bin\Debug\P17-Sunglasses.exe.config
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P17-Sunglasses\bin\Debug\P17-Sunglasses.exe
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P17-Sunglasses\bin\Debug\P17-Sunglasses.pdb
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P17-Sunglasses\obj\Debug\P17-Sunglasses.exe
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P17-Sunglasses\obj\Debug\P17-Sunglasses.pdb

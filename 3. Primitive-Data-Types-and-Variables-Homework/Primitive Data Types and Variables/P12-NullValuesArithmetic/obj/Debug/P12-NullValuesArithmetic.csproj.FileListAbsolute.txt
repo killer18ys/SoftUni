@@ -1,2 +1,0 @@
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P12-NullValuesArithmetic\bin\Debug\P12-NullValuesArithmetic.exe.config
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P12-NullValuesArithmetic\obj\Debug\P12-NullValuesArithmetic.csprojResolveAssemblyReference.cache

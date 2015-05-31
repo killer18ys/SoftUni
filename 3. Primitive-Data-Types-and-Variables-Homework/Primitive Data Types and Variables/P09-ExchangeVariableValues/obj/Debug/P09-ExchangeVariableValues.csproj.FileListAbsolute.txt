@@ -1,7 +1,0 @@
-c:\users\hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P09-ExchangeVariableValues\bin\Debug\P09-ExchangeVariableValues.exe.config
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P09-ExchangeVariableValues\bin\Debug\P09-ExchangeVariableValues.exe
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P09-ExchangeVariableValues\bin\Debug\P09-ExchangeVariableValues.pdb
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P09-ExchangeVariableValues\bin\Debug\P09-ExchangeVariableValues.exe.CodeAnalysisLog.xml
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P09-ExchangeVariableValues\bin\Debug\P09-ExchangeVariableValues.exe.lastcodeanalysissucceeded
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P09-ExchangeVariableValues\obj\Debug\P09-ExchangeVariableValues.exe
-C:\Users\Hacker\documents\visual studio 2013\Projects\Primitive Data Types and Variables\P09-ExchangeVariableValues\obj\Debug\P09-ExchangeVariableValues.pdb
