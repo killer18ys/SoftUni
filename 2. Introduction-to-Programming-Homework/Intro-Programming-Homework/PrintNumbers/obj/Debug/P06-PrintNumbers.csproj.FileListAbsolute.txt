@@ -1,3 +1,0 @@
-C:\Users\Hacker\Desktop\SoftUni\2. Introduction-to-Programming-Homework\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
-C:\Users\Hacker\Desktop\SoftUni\2. Introduction-to-Programming-Homework\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
-C:\Users\Hacker\Desktop\SoftUni\2. Introduction-to-Programming-Homework\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb

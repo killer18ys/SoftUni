@@ -1,6 +1,0 @@
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.exe.config
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.exe
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.pdb
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\Intro-Programming-Homework\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\Intro-Programming-Homework\obj\Debug\Intro-Programming-Homework.exe
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\Intro-Programming-Homework\obj\Debug\Intro-Programming-Homework.pdb

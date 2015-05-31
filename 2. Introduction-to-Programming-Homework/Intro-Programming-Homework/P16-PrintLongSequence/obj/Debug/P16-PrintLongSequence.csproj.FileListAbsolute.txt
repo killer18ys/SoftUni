@@ -1,5 +1,0 @@
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P16-PrintLongSequence\bin\Debug\P16-PrintLongSequence.exe.config
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P16-PrintLongSequence\bin\Debug\P16-PrintLongSequence.exe
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P16-PrintLongSequence\bin\Debug\P16-PrintLongSequence.pdb
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P16-PrintLongSequence\obj\Debug\P16-PrintLongSequence.exe
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P16-PrintLongSequence\obj\Debug\P16-PrintLongSequence.pdb

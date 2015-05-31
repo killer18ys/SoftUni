@@ -1,5 +1,0 @@
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P17-DebuggerTest\bin\Debug\P17-DebuggerTest.exe.config
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P17-DebuggerTest\bin\Debug\P17-DebuggerTest.exe
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P17-DebuggerTest\bin\Debug\P17-DebuggerTest.pdb
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P17-DebuggerTest\obj\Debug\P17-DebuggerTest.exe
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P17-DebuggerTest\obj\Debug\P17-DebuggerTest.pdb

@@ -1,5 +1,0 @@
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P10-PascalCase\bin\Debug\P10-PascalCase.exe.config
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P10-PascalCase\bin\Debug\P10-PascalCase.exe
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P10-PascalCase\bin\Debug\P10-PascalCase.pdb
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P10-PascalCase\obj\Debug\P10-PascalCase.exe
-c:\users\hacker\documents\visual studio 2013\Projects\Intro-Programming-Homework\P10-PascalCase\obj\Debug\P10-PascalCase.pdb
