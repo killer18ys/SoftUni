@@ -16,8 +16,28 @@ namespace P17_Sunglasses
             char fSlash = '/';
 
             int n = int.Parse(Console.ReadLine());
-            string nStars = new string(s, n * 2);
-            string nSpaces = new string(space, n * 2);
+
+            string nStars = new string(s, 2 * n);
+            string nSpaces = new string(space, n);
+            string nFSlash = new string(fSlash, 2 * n - 2);
+            string nDash = new string(dash, n);
+            string star = new string(s, 1);
+
+            int nLens = (n - 3) / 2;
+
+            Console.WriteLine(nStars + nSpaces + nStars);
+
+            for (int i = 0; i < nLens; i++)
+            {
+                Console.WriteLine(star + nFSlash + star + nSpaces + star + nFSlash + star);
+            }
+
+            Console.WriteLine(star + nFSlash + star + nDash + star + nFSlash + star);
+
+            for (int i = 0; i < nLens; i++)
+            {
+                Console.WriteLine(star + nFSlash + star + nSpaces + star + nFSlash + star);
+            }
 
             Console.WriteLine(nStars + nSpaces + nStars);
 
