@@ -4,18 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace P08_NumbersFrom1ToN
+namespace P09_SumOfNNumbers
 {
-    class NumbersFrom1ToN
+    class SumOfNNumbers
     {
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
+            double sum = 0;
+            
 
-            for (int i = 1; i <= n; i++)
+            for (int i = 0; i < n; i++)
             {
-                Console.WriteLine(i);
+                sum += double.Parse(Console.ReadLine());
             }
+
+            Console.WriteLine(sum);
 
         }
     }
