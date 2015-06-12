@@ -34,6 +34,7 @@ namespace P10_PointInsideACircleOutsideOfARectangle
             {
                 Console.WriteLine(false);
             }
+
         }
     }
 }
