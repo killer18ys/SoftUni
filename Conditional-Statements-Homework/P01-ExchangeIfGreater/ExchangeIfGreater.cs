@@ -17,7 +17,7 @@ namespace P01_ExchangeIfGreater
             if (a > b)
             {
                 temp = a;
-                b = a;
+                a = b;
                 b = temp;
             }
 
