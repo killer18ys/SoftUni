@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Loops-Homework")]
+[assembly: AssemblyTitle("P04-PrintADeckOf52Cards")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Loops-Homework")]
+[assembly: AssemblyProduct("P04-PrintADeckOf52Cards")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("60a97e12-9200-48a1-a38d-867f9ff35f71")]
+[assembly: Guid("9501e5ca-2d21-4668-8e77-6d716a0af479")]
 
 // Version information for an assembly consists of the following four values:
 //
