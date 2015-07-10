@@ -214,7 +214,7 @@ namespace P04_MagicCarNumbers
                     }
                 }
             }
-            return digitsWeight;
+            return digitsWeight; 
         }
 
     }
