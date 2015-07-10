@@ -199,7 +199,7 @@ namespace P04_MagicCarNumbers
                             digitsWeight.Add(i + k + i + k);
                         }
                     }
-                }
+                } 
             }
             else if (format == "CAabbaXY")
             {
