@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace P04_MagicCarNumbers
 {
-    class MagicCarNumbers
+    class MagicCarNumbers 
     {
         static void Main(string[] args)
         {

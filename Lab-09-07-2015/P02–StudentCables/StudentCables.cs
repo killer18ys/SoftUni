@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace P02_StudentCables
 {
-    class StudentCables
+    class StudentCables 
     {
         static void Main(string[] args)
         {

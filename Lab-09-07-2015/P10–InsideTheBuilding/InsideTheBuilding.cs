@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace P01_InsideTheBuilding
 {
-    class InsideTheBuilding
+    class InsideTheBuilding 
     {
         static void Main(string[] args)
         {

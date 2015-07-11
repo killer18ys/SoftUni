@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace P03_ProgrammerDNA
 {
-    class ProgrammerDNA
+    class ProgrammerDNA 
     {
         static void Main(string[] args)
         {
