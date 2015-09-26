@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MultiDimArrays-Sets-Dictionaries-Homework")]
+[assembly: AssemblyTitle("P02-TheSieveOfEratosthenes")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MultiDimArrays-Sets-Dictionaries-Homework")]
+[assembly: AssemblyProduct("P02-TheSieveOfEratosthenes")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("fcc45053-9aef-4335-b04d-8a8b9a3b5f1a")]
+[assembly: Guid("ef3e684c-94fa-441a-b0bf-12371325297c")]
 
 // Version information for an assembly consists of the following four values:
 //

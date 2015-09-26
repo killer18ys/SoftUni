@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MultiDimArrays_Sets_Dictionaries_Homework
+namespace CSharp_Advanced_Lab_Algorithms
 {
     class Program
     {
