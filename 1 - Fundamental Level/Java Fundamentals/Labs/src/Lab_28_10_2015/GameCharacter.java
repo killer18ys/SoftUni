@@ -1,6 +1,6 @@
 package Lab_28_10_2015;
 
-import Lab_28_10_2015.Exeptions.OutOfEnrgyExeption;
+import Lab_28_10_2015.Exceptions.OutOfEnergyException;
 
 /**
  * Created by Killer18ys on 28-10-2015.
@@ -60,7 +60,7 @@ public abstract class GameCharacter {
         this.name = name;
     }
 
-    public abstract void attack(GameCharacter other) throws OutOfEnrgyExeption;
+    public abstract void attack(GameCharacter other) throws OutOfEnergyException;
 
     public abstract void respond(int damage);
 }
