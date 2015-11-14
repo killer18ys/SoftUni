@@ -15,5 +15,15 @@ public class P07_CountSubstringOccurrences {
 
 
 
+        int count = 0;
+        int indexOccurrence = line.indexOf(wordToSearch);
+
+        while (indexOccurrence != -1){
+            count++;
+            indexOccurrence++;
+            indexOccurrence = line.indexOf(wordToSearch, indexOccurrence);
+        }
+
+        System.out.println(count);
     }
 }
