@@ -8,8 +8,6 @@ namespace P02_LaptopShop
 {
     class Laptop
     {
-        // model, manufacturer, processor, RAM, graphics card, HDD, screen, battery, battery life in hours and price.
-
         private string model;
         private string manufacturer;
         private string processor;
