@@ -41,16 +41,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Components\Component.cs" />
+    <Compile Include="Components\GraphicCard.cs" />
+    <Compile Include="Components\Motherboard.cs" />
+    <Compile Include="Components\Processor.cs" />
+    <Compile Include="Components\Ram.cs" />
     <Compile Include="Computer.cs" />
-    <Compile Include="PCCatalog.cs" />
+    <Compile Include="PCCatalogMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Components\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
