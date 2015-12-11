@@ -18,6 +18,6 @@
 
         IProjectile ProduceAttack();
 
-        void RespondToAttack(IProjectile attack);
+        void RespondToAttack(IProjectile Projectile);
     }
 }

@@ -4,6 +4,6 @@
     {
         int Damage { get; set; }
 
-        void Hit(IStarship ship);
+        void Hit(IStarship targetShip);
     }
 }

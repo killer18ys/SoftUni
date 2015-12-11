@@ -3,19 +3,25 @@
     using System;
 
     using MassEffect.Interfaces;
+    using MassEffect.Exceptions;
 
-    public class Command
+    public abstract class Command
     {
-        public Command(IGameEngine gameEngine)
+        protected Command(IGameEngine gameEngine)
         {
             this.GameEngine = gameEngine;
         }
 
         public IGameEngine GameEngine { get; set; }
 
-        public void Execute(string[] commandArgs)
+        public abstract void Execute(string[] commandArgs);
+
+        protected void ValidateAlive(IStarship ship)
         {
-            throw new NotImplementedException();
+            if (ship.Health <= 0)
+            {
+                throw new ShipException(Messages.ShipAlreadyDestroyed);
+            }
         }
     }
 }
